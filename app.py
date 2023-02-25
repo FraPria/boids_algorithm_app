@@ -3,7 +3,7 @@
 """
 Created on Sun Aug 28 11:14:47 2022
 
-@author: francesca
+@author: Francesca Priante
 http://www.vergenet.net/~conrad/boids/pseudocode.html
 https://www.youtube.com/watch?v=XiYnZ6Dy4v8
 https://www.youtube.com/watch?v=VZ_tS4F6P2A
@@ -17,8 +17,6 @@ import numpy as np
 from streamlit.hello.utils import show_code
 
 from functions import move
-
-
 
 def animation_demo():
     # %%
