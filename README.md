@@ -4,7 +4,7 @@ Full explaination here: https://frapria.github.io/blog/streamlit_app
 
 1. Clone the repository:
 ```sh
-https://github.com/FraPria/boids_algorithm_app.git
+git clone https://github.com/FraPria/boids_algorithm_app.git
 ```
 
 2. install the requirments:
@@ -18,6 +18,5 @@ pip install -r requirements.txt
 streamlit run app.py 
 ```
 This command will prompt the Local URL where you can find your app running. So open up the browser and paste the URL.
-
 
 4. Play with parameters and enjoy!
