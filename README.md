@@ -20,4 +20,4 @@ streamlit run app.py
 This command will prompt the Local URL where you can find your app running. So open up the browser and paste the URL.
 
 
-4. Play with parameters and enjoy :)
+4. Play with parameters and enjoy!
